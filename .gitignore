@@ -1,0 +1,12 @@
+# Java compiled output
+out/
+com/
+*.class
+
+# Local database
+smart_evaluator.db
+
+# IDE / OS files
+*.log
+.DS_Store
+Thumbs.db
