@@ -1,6 +1,5 @@
 # Java compiled output
 out/
-com/
 *.class
 
 # Local database
