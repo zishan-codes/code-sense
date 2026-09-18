@@ -18,7 +18,7 @@ RUN mkdir -p out && \
 # =========================
 # Stage 2: Runtime
 # =========================
-FROM eclipse-temurin:17-jre
+FROM eclipse-temurin:17-jdk
 
 WORKDIR /app
 
