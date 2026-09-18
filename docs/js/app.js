@@ -5,7 +5,7 @@
 
 /* ---------------- CONFIG ---------------- */
 const CONFIG = {
-  API_BASE: "http://localhost:8080/api",
+  API_BASE: "https://code-sense-pceq.onrender.com/api",
   HEALTH_POLL_MS: 15000,
   HISTORY_LIMIT: 20,
   ANALYTICS_LIMIT: 50,
