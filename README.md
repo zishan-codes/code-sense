@@ -3,6 +3,13 @@
 > A learning-focused code evaluation platform that executes Java programs, detects compilation/runtime/timeout failures, explains errors using AI, stores evaluation history, and provides analytics through a modern web interface.
 
 ---
+## 🌐 Live Demo
+
+🔗 **Live Web App:** https://zishan-codes.github.io/code-sense/
+
+🔗 **GitHub Repository:** https://github.com/zishan-codes/code-sense
+
+🔗 **Live Backend API:** https://code-sense-pceq.onrender.com/api/health
 
 ## 🚀 Overview
 
